@@ -1,0 +1,17 @@
+{
+  "name": "praticas-recuperacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/ index,js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^7.6.3"
+  }
+}
